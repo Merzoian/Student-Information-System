@@ -1,0 +1,34 @@
+[
+    {
+        "ID": "1001",
+        "Name": "Alice Johnson",
+        "Email": "alice.johnson@example.com",
+        "Major": "Computer Science",
+        "Courses": [
+            {
+                "Name": "Intro to Programming",
+                "Grade": 3.7
+            },
+            {
+                "Name": "Data Structures",
+                "Grade": 3.9
+            }
+        ]
+    },
+    {
+        "ID": "1002",
+        "Name": "David Smith",
+        "Email": "david.smith@example.com",
+        "Major": "Engineering",
+        "Courses": [
+            {
+                "Name": "Calculus I",
+                "Grade": 3.4
+            },
+            {
+                "Name": "Physics",
+                "Grade": 3.2
+            }
+        ]
+    }
+]
