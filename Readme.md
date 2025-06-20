@@ -65,6 +65,20 @@ File loading and saving
 
     Writing README & Comments 5 hr
 
+--- 
+## 📄 License
+
+This project is provided for educational use only
+
+---
+
+## 👩‍💻 Author
+
+Valentina  
+Created for CSE 310 – Applied Programming  
+Brigham Young University–Idaho
+
+ ---
 
 ## 📄 Sample Data Format (`students.json`)
 
