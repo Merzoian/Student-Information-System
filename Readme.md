@@ -55,7 +55,7 @@ File loading and saving
 
     Task	                 Time
 
-    Planning & Design	     2 hr
+    Planning & Design	     3 hr
 
     Coding Core Features     9 hr
 
@@ -63,9 +63,8 @@ File loading and saving
 
     Debugging & Testing	     3 hr
 
-    Writing README & Comments 2 hr
+    Writing README & Comments 5 hr
 
-    Demo Video Recording	  4 hr
 
 ## 📄 Sample Data Format (`students.json`)
 
